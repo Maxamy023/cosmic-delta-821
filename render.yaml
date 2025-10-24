@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: its-all-hers
+    name: my-application
     runtime: docker
     region: singapore
     plan: free
